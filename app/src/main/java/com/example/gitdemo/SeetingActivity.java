@@ -9,6 +9,7 @@ public class SeetingActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_seeting);
-
+        //胭脂香修改代码
+        //2018年12月26日10:09:33
     }
 }
